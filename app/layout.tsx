@@ -5,9 +5,6 @@ export const metadata: Metadata = {
   title: "Dra. Natália Alcântara | Estética Avançada em Petrolina",
   description:
     "Estética avançada com resultados naturais, atendimento personalizado e acompanhamento profissional em Petrolina-PE.",
-  other: {
-    "codex-preview": "development",
-  },
   openGraph: {
     title: "Dra. Natália Alcântara | Estética Avançada",
     description:
